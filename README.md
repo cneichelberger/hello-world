@@ -6,7 +6,7 @@ This is a box for code
 ```
 
 *Using markdown language italics*
-**Using markdown language bold**
+**Using markdown language bold
 
 ## Making heading
 - Comment: http://www.google.com
